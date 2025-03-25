@@ -1,0 +1,96 @@
+=== ROMA YEMEK REHBERİ ÖZETİ ===
+
+{
+  "roma_mutfagi_ozellikleri": "Roma mutfağı, Antik Yunan, Antik Roma, Bizans, Yahudi ve Arap mutfaklarının etkisiyle şekillenmiştir. Taze makarnalar, et ve sebze yemekleri Roma mutfağının temelini oluşturur. Pecorino Romano peyniri birçok yemeğin vazgeçilmezidir. Roma dondurması gelato da bu şehre özgü bir lezzettir.",
+  "yemekler": [
+    {
+      "isim": "Enginar Kızartması (Carciofi alla Giudìa)",
+      "aciklama": "Romalıların enginarı yaprakları ve sapıyla bir bütün olarak kızgın yağda kızarttıkları enginar kızartmasıdır. Yahudi mutfağından Roma mutfağına geçmiştir.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "Da Enzo Al 29",
+          "adres": "Via dei Vascellari, 29, 00153",
+          "iletisim": "+39 06 581 2260"
+        }
+      ]
+    },
+    {
+      "isim": "Carbonara",
+      "aciklama": "Guanciale (domuz yanağı), Pecorino peyniri, yumurta sarısı ve zeytinyağı ile yapılan bir makarna türüdür.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "La Carbonara",      
+          ]
+    },
+    {
+      "isim": "Fettuccine Alfredo",
+      "aciklama": "Tereyağ ve Parmesan peyniri ile karıştırılmış taze Fettuccine makarnadan oluşan bir yemektir.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "Alfredo alla Scrofa",
+          "adres": "Via della Scrofa, 104/a, 00186",
+          "iletisim": "+39 06 6880 6163"
+        }
+      ]
+    },
+    {
+      "isim": "Cacio e Pepe",
+      "aciklama": "Pecorino peynirli ve karabiberli taze makarna türüdür.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "Cantina e Cucina",
+          "adres": "Via del Governo Vecchio, 87, 00186",
+          "iletisim": "+39 06 689 2574"
+        },
+        {
+          "isim": "Tonnarello",
+          "adres": "Via della Paglia, 1/2/3, 00153"
+        }
+      ]
+    },
+    {
+      "isim": "Pasta all'Amatriciana",
+      "aciklama": "Guanciale (domuz yanağı), domates, pecorino peyniri ve taze biberle yapılan bir makarna türüdür.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "Roscioli Salumeria",
+          "adres": "Via dei Giubbonari, 21, 00186",
+          "iletisim": "+39 06 675 541"
+        },
+        {
+          "isim": "Cantina e Cucina",
+         "adres": "Via del Governo Vecchio, 87, 00186",
+          "iletisim": "+39 06 689 2574"
+        }
+      ]
+    },
+    {
+      "isim": "Dilim Pizza (Pizza al Taglio)",
+      "aciklama": "Roma'da dilim dilim kesilen ve çeşitli malzemelerle dolu olan pizza türüdür.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "Antico Forno Roscioli",
+          "adres": "Via dei Chiavari, 34"
+        }
+      ]
+    },
+    {
+      "isim": "Trapizzino",
+      "aciklama": "Üçgen şeklindeki pizza hamurunun içine çeşitli malzemeler konularak yapılan bir sandviç türüdür.",
+      "en_iyi_restoranlar": [
+        {
+          "isim": "Vineria di Roma Trapizzino",
+          "adres": "Piazza Trilussa, 46, 00153",
+          "iletisim": "+39 06 581 7312"
+        },
+        {
+          "isim": "Trappizino",
+          "adres": "Piazza Trilussa, 46, 00153",
+          "iletisim": "+39 06 581 7312"
+        }
+      ]
+    },
+    {
+      "isim": "Supplì",
+      "aciklama": "İçi malzeme dolu pirinç topları olan bir sokak lezzetidir.",
+      "en_iyi_restoranlar": [
